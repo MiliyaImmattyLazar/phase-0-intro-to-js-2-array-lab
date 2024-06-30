@@ -30,6 +30,8 @@ describe('index.js', function () {
       });
     });
 
+
+    
     describe('destructivelyRemoveLastCat()', function () {
       it('removes the last cat from the cats array', function () {
         destructivelyRemoveLastCat();
